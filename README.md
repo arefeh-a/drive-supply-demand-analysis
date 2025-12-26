@@ -6,8 +6,7 @@ This project simulates a **Supply & Demand analysis** for a ride-hailing company
 The goal was to build a scalable BI solution that helps Operations Managers optimize driver allocation during peak hours.
 
 ## 📊 Dashboard Preview
-![Dashboard Overview](dashboard_overview_page1.png)
-![Dashboard Overview](dashboard_overview_page2.png)
+![Dashboard Overview]([dashboard_overview_page1.png](https://github.com/arefeh-a/drive-supply-demand-analysis/tree/main/dashboard_overview))
 
 
 ## 🛠 Tech Stack & Skills
