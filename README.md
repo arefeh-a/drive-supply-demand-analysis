@@ -1,13 +1,14 @@
 # 🚖 Ride-Hailing Supply & Demand Dashboard
 
 ## 📌 Project Overview
-This project simulates a **Supply & Demand analysis** for a ride-hailing company (similar to **Snapp!**). It analyzes over **600,000 rides** to identify surge pricing patterns, high-demand locations, and weather impacts on ride volume.
+This project simulates a **Supply & Demand analysis** for a ride-hailing company. It analyzes over **600,000 rides** to identify surge pricing patterns, high-demand locations, and weather impacts on ride volume.
 
 The goal was to build a scalable BI solution that helps Operations Managers optimize driver allocation during peak hours.
 
 ## 📊 Dashboard Preview
-![Dashboard Overview](dashboard_overview.png)
-*(Note: Replace 'dashboard_overview.png' with the actual name of your uploaded image)*
+![Dashboard Overview](dashboard_overview_page1.png)
+![Dashboard Overview](dashboard_overview_page2.png)
+
 
 ## 🛠 Tech Stack & Skills
 * **Power BI Desktop**: Data modeling, visualization, and reporting.
